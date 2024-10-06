@@ -13,7 +13,7 @@ well as slow moving products
 ### 4 Revenue Growth Opportunities
 Identify potential opportunities for revenue growth and improvemen
 
-###The data was preprocced using DAX in power Bi and various columns were added and Measures::
+### The data was preprocced using DAX in power Bi and various columns were added and Measures::
 #### Columns and Measures added in Transactions table
 #### Profit = Transactions[Quantity] *(RELATED(Products[Price]) - RELATED(Products[Cost]))
 #### Revenue = Transactions[Quantity] * RELATED(Products[Price])
