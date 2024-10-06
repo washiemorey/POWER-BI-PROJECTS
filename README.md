@@ -15,17 +15,18 @@ Identify potential opportunities for revenue growth and improvemen
 
 The data was preprocced using DAX in power Bi and various columns were added and Measures::
 ### Columns and Measures added in Transactions table
-Profit = Transactions[Quantity] *(RELATED(Products[Price]) - RELATED(Products[Cost]))
-Revenue = Transactions[Quantity] * RELATED(Products[Price])
-Average Sales = SUM(Transactions[Quantity])/15
-Margin = Products[Price] - Products[Cost]  was addesd in Products Table
+#### Profit = Transactions[Quantity] *(RELATED(Products[Price]) - RELATED(Products[Cost]))
+#### Revenue = Transactions[Quantity] * RELATED(Products[Price])
+#### Average Sales = SUM(Transactions[Quantity])/15
+#### Margin = Products[Price] - Products[Cost]  was addesd in Products Table
+
 ### In my vusuals have brought out the following insights clearly
-Revenue By Day: To understand how much revenue was made everyday and the variation
-Sales Volume By Day: This helps understand how many sales were done each day,this can be used to explain variation in revenue since revenue depend on sales
-Revenue By Branch : This is used to explain which branch makes least Revenue and which branch makes most revenue.
+#### Revenue By Day: To understand how much revenue was made everyday and the variation
+#### Sales Volume By Day: This helps understand how many sales were done each day,this can be used to explain variation in revenue since revenue depend on sales
+#### Revenue By Branch : This is used to explain which branch makes least Revenue and which branch makes most revenue.
 Have drilled it down for more and deeper understanding of Revenue at each branch by Category 
-Revenue By Category : This helps understand how much percentage of total Revenue is being contributed by each Category
-Top 5 Performing Products by Profit : To understand which products contribute most to profit made
-Least 5 Performing Products By Profit : To understand which products are contributing least in profit for investigation how improvement can be done
-Top Selling Products : To understand which products are bought most by customers in this Retail.
-Slow Selling Products : To understand which products are bought least by customers in this Retail.
+#### Revenue By Category : This helps understand how much percentage of total Revenue is being contributed by each Category
+#### Top 5 Performing Products by Profit : To understand which products contribute most to profit made
+#### Least 5 Performing Products By Profit : To understand which products are contributing least in profit for investigation how improvement can be done
+#### Top Selling Products : To understand which products are bought most by customers in this Retail.
+#### Slow Selling Products : To understand which products are bought least by customers in this Retail.
