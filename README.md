@@ -1,1 +1,1 @@
-# POWER-BI-PROJECTS
+This repository showcases a collection of Power BI dashboards and reports designed to provide valuable insights into various datasets. Each project demonstrates the use of data transformation, modeling, and visualization techniques to turn raw data into clear, actionable business insights.
