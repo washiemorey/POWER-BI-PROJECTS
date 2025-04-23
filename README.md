@@ -105,5 +105,5 @@ Indicating most people are very unhappy
 ### 8.Level of hapiness with Learning New Things
 The average level of hapiness Learnng New Things is 5.61.
 
-<img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Retail%20X%20sales.jpg" alt="Dashboard Preview" width="600"/>
+<img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Data%20Survey.jpg" alt="Dashboard Preview" width="600"/>
 
