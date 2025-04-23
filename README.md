@@ -70,5 +70,40 @@ Expectations of most data proffesuonals in new job
 
 All these can be drilled down by country of residence for more insights.
 
+### In my vusuals have brought out the following insights clearly
 
+### 1. Favourite Programming Language
+Most data professionals use Python ,average salary of different data proffesionals  R and Java is the least used.
+
+This will enable one to know which Programming Language to learn while getting in data proprofession.
+
+### 2. Average salary of different data proffesionals 
+One average data scientists earn the highest,followed by Data Engineers and least paid are Data Developers
+
+This will enable one to know which proffesion to go into for better pay.
+
+### 3. Expectations on new job
+Most data professionals expect better salary in their new job.This is clearly indication that most are not satisfied by current salary.
+Very few has got other expectations
+
+This will enable employers to understand that their employees need better salary. This will reduce turn over
+
+### 4. Difficulty to break into Data
+Most people find it difficult to break into data 
+Very few find it easy or very easy.
+
+### 5. Data study at school
+Most people did not study data at school they switched into data later on.
+
+### 6. Level of hapiness with WorkLife Balance
+The average level of hapiness by worklife balance is 5.74.
+
+### 7. Level of hapiness with Current Salary
+The average level of hapiness with current salary is 4.27.
+Indicating most people are very unhappy
+
+### 8.Level of hapiness with Learning New Things
+The average level of hapiness Learnng New Things is 5.61.
+
+<img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Retail%20X%20sales.jpg" alt="Dashboard Preview" width="600"/>
 
