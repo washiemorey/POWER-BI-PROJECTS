@@ -39,6 +39,8 @@ To understand which products are bought most by customers in this Retail.
 #### Slow Selling Products : 
 To understand which products are bought least by customers in this Retail.
 
+The PowerBi Dashboard for this project is loaded above as  Retail_X_Sales_Visualisations. Download.
+
 <img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Retail%20X%20sales.jpg" alt="Dashboard Preview" width="600"/>
 
 # PROJECT 2(DATA PROFESSIONAL SURVEY)
@@ -95,15 +97,24 @@ Very few find it easy or very easy.
 ### 5. Data study at school
 Most people did not study data at school they switched into data later on.
 
+
 ### 6. Level of hapiness with WorkLife Balance
 The average level of hapiness by worklife balance is 5.74.
+Indicating people are satisfied but not that much.
+There is need for improvement.
 
 ### 7. Level of hapiness with Current Salary
 The average level of hapiness with current salary is 4.27.
-Indicating most people are very unhappy
+Indicating most people are very unhappy.
+There is need for pay raise
 
 ### 8.Level of hapiness with Learning New Things
 The average level of hapiness Learnng New Things is 5.61.
+Indicating people are satisfied but not that much.
+There is need for people to become more agile to learning.
+
+
+The PowerBi Dashboard for this project is uploaded above as  Data Proffesional Survey. Download.
 
 <img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Data%20Survey.jpg" alt="Dashboard Preview" width="600"/>
 
