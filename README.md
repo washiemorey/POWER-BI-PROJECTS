@@ -40,3 +40,4 @@ To understand which products are bought most by customers in this Retail.
 To understand which products are bought least by customers in this Retail.
 
 [Dashboard Preview](https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Retail%20X%20sales.jpg)
+<img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Retail%20X%20sales.jpg" alt="Dashboard Preview" width="800"/>
