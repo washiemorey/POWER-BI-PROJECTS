@@ -40,3 +40,35 @@ To understand which products are bought most by customers in this Retail.
 To understand which products are bought least by customers in this Retail.
 
 <img src="https://github.com/washiemorey/POWER-BI-PROJECTS/blob/main/Retail%20X%20sales.jpg" alt="Dashboard Preview" width="600"/>
+
+# PROJECT 2(DATA PROFESSIONAL SURVEY)
+This is data that was obtained by survey that was conducted online. The dataset is available 
+[Here](https://docs.google.com/spreadsheets/d/1iZxgy2WHsbUk7GFwpZI9R5kr6LPew62B/edit?usp=sharing&ouid=104945955652080341592&rtpof=true&sd=true)
+
+Performed various data cleaning and pre-processing before creating the visuals
+
+## Objectives of the Analysis were:
+
+### 1. To Find out Favourite Programming Language For data Professionals.
+Which langage is used mostly and which one s used least.
+
+### 2. To find out average salary of different data proffesionals 
+Which proffesion earns highest and which one earns lowest on average .
+
+### 3. To find out expectations on their new job.
+Expectations of most data proffesuonals in new job 
+
+### 4. To find out how difficult it is to break into data.
+
+### 5. To find out whether most data proffesionals studied data at school or they switched into it later on
+
+### 6. To find out current level of hapiness of data professionals with WorkLife Balance
+
+### 7. To find out current level of hapiness of data professionals with Current Salary
+
+### 8. To find out current level of hapiness of data professionals with Learning New Things
+
+All these can be drilled down by country of residence for more insights.
+
+
+
